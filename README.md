@@ -19,4 +19,3 @@ Happy Hacking!
 
 ### Inspired by 
 ([Computerphile - Youtube](https://www.youtube.com/watch?v=ciNHn38EyRc))
-"# sql-injection-playground" 
